@@ -14,4 +14,4 @@ ex6: Support Vector Machines. <br/>
 ex7: K-means Clustering and Principal Component Analysis. <br/>
 ex8: Anomaly Detection and Recommender Systems.
 
-doc/slides: The slides used in the class.
+doc/slides: The slides used in this class.
