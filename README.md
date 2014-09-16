@@ -1,7 +1,7 @@
 ml_class
 ========
 
-Machine learning class opened by Stanford university on Coursera. <br/>
+Machine learning class of the Stanford university on Coursera. <br/>
 Here are the programming exercises done by myself for this class.
 All codes were written with Octave/Matlab.
 
