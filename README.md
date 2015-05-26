@@ -1,7 +1,7 @@
 ml_class 
 ========
 
-Here are the programming exercises done by myself in the machine learning class of Stanford university on Coursera.
+Here are the programming exercises done by myself in the [machine learning course](https://www.coursera.org/learn/machine-learning) of Stanford university on Coursera.
 All codes are written with Octave/Matlab.
 
 - ex1: Linear Regression
